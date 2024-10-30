@@ -1,9 +1,9 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
-baseurl: ""
-url: ""
+title: Shaan Nagy
+email: shnagy@ucsd.edu
+description: Academic webpage of Shaan Nagy
+baseurl: "/~shnagy"
+url: "https://cseweb.ucsd.edu"
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
@@ -12,29 +12,29 @@ url: ""
 
 # Footer info
 affiliation: >
-  Richard Feynman<br/>
-  Professor of Physics<br/>
-  California Institute of Technology
+  Shaan Nagy<br/>
+  PhD Student in Computer Science<br/>
+  Univeristy of California San Diego
 
 location: >
-  California Institute of Technology<br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125
+  Univeristy of California San Diego<br/>
+  9500 Gilman Drive<br/>
+  La Jolla, CA 92093-0404  U.S.A.
 
 contact: >
-  <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
-  <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
+  <a href="mailto:shnagy@ucsd.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact me via email</a> <br/>
+  <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Used this neat web template!</a>
 
 # Pages shown in navbar
 nav_pages:
-  - name: about
-  - name: publications
-  - name: talks
-  - name: research
-  - name: software
-  - name: team
-  - name: teaching
-  - name: blogs
+  # - name: about
+  # - name: publications
+  # - name: talks
+  # - name: research
+  # - name: software
+  # - name: team
+  # - name: teaching
+  # - name: blogs
 
 include:
   - .htaccess

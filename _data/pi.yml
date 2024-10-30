@@ -1,17 +1,18 @@
-- name: Dr. Richard Feynman
+- name: Shaan Nagy
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
-  cv: cv/cv.pdf
+  info: NSF Graduate Research Fellow, UCSD
+  email: shnagy@ucsd.edu
+  github: https://github.com/Shoooooon
+  # researchgate: https://www.researchgate.net/
+  # scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  # cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "(2024) M.S. in Computer Science, University of Wisconsin-Madison",
+      "(2022) B.S.C.S., Rice University",
+      "(2022) B.S. Math, Rice University",
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["(2024) M.S. in CS from UW-Madison", "(2022) B.S. in Math & CS from Rice"]
